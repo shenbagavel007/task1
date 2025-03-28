@@ -13,6 +13,5 @@ curl -X DELETE http://127.0.0.1:5000/messages/1
 this last number 1 is (id) 
 
 
-Explanation of my approach:
-This is my firt Expirence with CRUD operations in Flask first i try to understand the question and start learning about the RESTApi and GET, POST, DELETE then i start the task with connecting  MYSQL and write function with error handling and complete the task 
+
 
